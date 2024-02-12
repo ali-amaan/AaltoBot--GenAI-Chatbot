@@ -1,1 +1,3 @@
-# AaltoBot--GenAI-Chatbot
+# Aaltobot
+
+Aalto Final Year Project
